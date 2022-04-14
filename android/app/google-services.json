@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182378004915",
+    "project_id": "chatter-flutter-3255c",
+    "storage_bucket": "chatter-flutter-3255c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182378004915:android:cfb05e9d7c59a1dca1cbc6",
+        "android_client_info": {
+          "package_name": "com.example.chatter_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182378004915-4mnn6h9netjt7urgegsghi3e10a2fj1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNMrRuXnyIvhpbSyLdB-OhLxr8n2vJI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182378004915-4mnn6h9netjt7urgegsghi3e10a2fj1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
