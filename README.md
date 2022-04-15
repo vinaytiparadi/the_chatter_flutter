@@ -1,6 +1,13 @@
-# chatter_flutter
+# The Chatter
+A Flutter project built to understand Firebase Authentication, Cloud Firestore and simple animations in Flutter.
 
-A new Flutter project.
+### Prerequisite:
+You must be using Flutter 2.10.1 or later to compile app without any issues.
+
+### Showcase:
+<img width="1080" alt="sampleimages" src="https://raw.githubusercontent.com/vinaytiparadi/the_chatter_flutter/main/showcase.png">
+
+### [Try it!](https://github.com/vinaytiparadi/the_chatter_flutter/releases/download/latest/TheChatter.apk)
 
 ## Getting Started
 
